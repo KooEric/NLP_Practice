@@ -13,7 +13,9 @@
 
 ### Soon
 
-###BERT
+### BERT
 ### ELECTRA
 ### DistilBERT
 ### Personal Project for using BERT(+Pretraining)
+
+### If I have a chance, I'll use GPT-2 or 3.
