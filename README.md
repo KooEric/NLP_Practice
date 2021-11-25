@@ -11,3 +11,7 @@
 
 2. (참고서적) 김기현의 자연어처리 딥러닝 캠프 
 
+### Soon BERT
+### ELECTRA
+### DistilBERT
+### Personal Project for using BERT(+Pretraining)
