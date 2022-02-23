@@ -4,8 +4,7 @@
 * 01-1 : Introduction Text Analytics - part1 > 2022.02.21
 
 ### BERT
-### ELECTRA
-### DistilBERT
+### KO-ELECTRA
 ### Personal Project for using BERT(+Pretraining)
 
-### If I have a chance, I'll use GPT-2 or 3.
+### NLP 공부정리 파일 업로드 예정
