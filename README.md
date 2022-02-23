@@ -3,8 +3,9 @@
 [youtube][https://www.youtube.com/watch?v=UInnl60pzkA&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=1
 * 01-1 : Introduction Text Analytics - part1 > 2022.02.21
 
-### BERT
-### KO-ELECTRA
-### Personal Project for using BERT(+Pretraining)
+### 0. NLP정리 파일 업로드(+노션)
+### 1. 논문 및 코드 리뷰
+### 2. BERT
+### 3. KO-ELECTRA
+### 4. Side Project for using BERT(+Pretraining)
 
-### NLP 공부정리 파일 업로드 예정
