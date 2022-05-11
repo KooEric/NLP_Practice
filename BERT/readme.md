@@ -1,7 +1,8 @@
 ## 1. BERT
 1. keybert
-2. bert finetune
-3. bert pretraining
+2. mrc_test
+3. bert finetune
+4. bert pretraining
 
 ## 2. ELECTRA
 
