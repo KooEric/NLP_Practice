@@ -1,2 +1,2 @@
-코드 8라인으로 구현한 MRC
-Pre-trained model를 사용함.
+MRC Bert for using pretrained model.
+It consists of 8 lines of Python.
