@@ -14,4 +14,9 @@ Question:
 
 Answer:
 약 7㎞다, Score: 0.897
+Question:
+집무실 도착시간은?
+
+Answer:
+8시 34분이었다, Score: 0.383
 '''
