@@ -310,3 +310,10 @@ for text in DATA:
 ```
 
 ## 3.5 최종 결과 통합
+
+```python
+result =pd.DataFrame(dataframe, columns=['Entities']) # Entities 컬럼명으로 데이터 프레임화
+
+final = pd.concat([df2, result], axis=1) # 리뷰 데이터와 결함
+final.to_csv('./final_merge_entitiy.csv') # csv파일 만들기
+```
